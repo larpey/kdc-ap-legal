@@ -1,12 +1,14 @@
 ---
-title: KDC-GL-AUTOMATION
+title: kdc-ap-automation
 ---
 
-# KDC-GL-AUTOMATION
+# kdc-ap-automation
 
 Internal accounts-payable automation tool for Kristen Distributing Company.
 
-## Legal
+## Pages
 
+- [Launch / About](launch.html)
+- [Disconnect](disconnect.html)
 - [End-User License Agreement](eula.html)
 - [Privacy Policy](privacy.html)
